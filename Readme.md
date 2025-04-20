@@ -92,9 +92,6 @@ A highly skilled **Software Engineer, Data Scientist, and Digital Transformation
 🏆 **Top Campaigner – Student Enrollment & Boot Camp**  
 
 ---
-Here’s a **Case Study** section for your project portfolio, structured in the **Situation → Challenge → Resolution** (SCR) format for each key project. This approach highlights problem-solving impact clearly:
-
----
 
 ## **Case Studies**  
 
@@ -117,9 +114,6 @@ Primeasia University relied on **manual, paper-based processes** for admissions,
 - **Outcome:** Streamlined operations, reduced paperwork, and improved cross-department collaboration.  
 
 ---
-
-Here’s a rewritten **Case Study** for the **Sales Engine POS & Retail Management System** project, incorporating **Embedded Systems, Intranet, REST API, Spring Boot, Java EE**, and other specified technologies while maintaining the **Situation → Challenge → Resolution** format:
-
 ---
 
 ### **2. Sales Engine POS & Retail Management System**  
