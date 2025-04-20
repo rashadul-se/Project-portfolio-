@@ -5,7 +5,7 @@
 **Email:** go.rashadul@gmail.com  
 **Phone:** +8801842467677  
 **Location:** Dhaka, Bangladesh  
-**GitHub:** https://github.com/rashadul-se/Project-portfolio
+**GitHub:** [https://github.com/rashadul-se/Project-portfolio](https://github.com/rashadul-se/Project-portfolio-/blob/main/Readme.md)
 
 A highly skilled **Software Engineer, Data Scientist, and Digital Transformation Specialist** with **10+ years** of experience in **full-stack development, machine learning, ERP systems, and IT infrastructure management**. Proven expertise in **Java, Python, Spring Boot, Data Engineering, and Agile Project Management**. Strong background in **academia, technical writing, and open-source contributions**.  
 
