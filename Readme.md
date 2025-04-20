@@ -75,10 +75,8 @@ A highly skilled **Software Engineer, Data Scientist, and Digital Transformation
 ---
 
 ## **Education**  
-🎓 **B.Sc. in CSE (Software Engineering)** – IBAIS University, Bangladesh *(CGPA: 3.74/4.00)*  
-🎓 **B.Sc. in CSC (System Software)** – Concordia University, Canada *(CGPA: 3.10/4.00)*  
-🎓 **B.Sc. in CSC (Computer Science)** – Independent University, Bangladesh *(CGPA: 3.23/4.00)*  
-
+🎓 **B.Sc. in CSE (Software Engineering)** – IBAIS University, Bangladesh *(CGPA: 3.74/4.00)*
+🎓 **ESL (English as a Second Language)** – Acadia University, Canada *(Band score: 8.5/10.00)*
 ---
 
 ## **Volunteer & Leadership**  
