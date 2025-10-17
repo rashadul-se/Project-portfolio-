@@ -1,4 +1,4 @@
-# Professional Introduction of Rashadul Islam, BSc, Bangladesh, Canada
+assembleoduction of Rashadul Islam, BSc, Bangladesh, Canada
 
 I'm a data-driven problem solver who's spent the past years translating complex business challenges into measurable outcomes. What excites me most is finding that intersection where advanced analytics, thoughtful architecture, and strategic thinking converge to create real value.
 
@@ -60,4 +60,7 @@ I'd welcome the opportunity to discuss how my background might align with your o
 
 ---
 
-*Available for immediate engagement | Open to discussing project-based, contract, or full-time opportunities*
+*Available for immediate engagement | Open to discussing project-based, contract, or full-time opportunitiopportunities*
+
+**Resume**: [https://www.overleaf.com/read/xftxrqtgdydn#f7bef3](https://www.overleaf.com/read/xftxrqtgdydn#f7bef3)
+**Project portfolios**: [https://github.com/rashadul-se/Project-portfolio-/blob/main/ProjectPortfolio.md](https://github.com/rashadul-se/Project-portfolio-/blob/main/ProjectPortfolio.md)
