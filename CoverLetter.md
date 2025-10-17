@@ -1,4 +1,4 @@
-assembleoduction of Rashadul Islam, BSc, Bangladesh, Canada
+**Rashadul Islam, BSc, Bangladesh, Canada**
 
 I'm a data-driven problem solver who's spent the past years translating complex business challenges into measurable outcomes. What excites me most is finding that intersection where advanced analytics, thoughtful architecture, and strategic thinking converge to create real value.
 
