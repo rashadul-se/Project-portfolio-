@@ -1,6 +1,6 @@
 **Rashadul Islam, BSc, Bangladesh, Canada**
 
-**Contact:** go.rashadul@gmail.com | +8801842467677  
+**Contact:** go.rashadul@gmail.com | +8801842467677 | Dhaka, Bangladesh
 
 I'm a data-driven problem solver who's spent the past years translating complex business challenges into measurable outcomes. What excites me most is finding that intersection where advanced analytics, thoughtful architecture, and strategic thinking converge to create real value.
 
